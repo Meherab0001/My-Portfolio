@@ -6,19 +6,20 @@ const Projects = () => {
         <div className='my-12 ml-4'>
             <h1 className='text-3xl text-center font-bold text-blue-400'>Projects</h1>
             <div>
-                <h2 className='text-xl font-bold'>Car Tools Manufacturing </h2>
+                <h2 className='text-xl font-bold'>Car hrefols Manufacturing </h2>
                <div className='flex gap-5 text-blue-400'>
-               <Link to='https://assignment-12-785e5.web.app/'>Live </Link>
-                <Link to='https://github.com/Meherab0001/-Manufacturer-website-client-side-assignment-12'>Client code</Link>
-                <Link to='https://github.com/Meherab0001/assingnemnt-12-sever'>Server code</Link>
+                  
+               <a href='https://assignment-12-785e5.web.app/'>Live </a>
+                <a href='https://github.com/Meherab0001/-Manufacturer-website-client-side-assignment-12'>Client code</a>
+                <a href='https://github.com/Meherab0001/assingnemnt-12-sever'>Server code</a>
                </div>
                 <img className='object-cover w-96 h-48 mt-3' src={project1} alt="" />
                 <div>
                     <h1 className="text-2xl">Features</h1>
                     <p>
-                        <li>Customers can purchase tools,Customers can pay with stripe methods ,Customers can review tools  .
+                        <li>Cushrefmers can purchase hrefols,Cushrefmers can pay with stripe methods ,Cushrefmers can review hrefols  .
                         </li>
-                        <li>Admin can change the tools status,Admin can add tools and also delete unpaid orders</li>
+                        <li>Admin can change the hrefols status,Admin can add hrefols and also delete unpaid orders</li>
                         <li>Admin can add admin in normal user and also admin have extra dashboard</li>
                         
                     </p>
